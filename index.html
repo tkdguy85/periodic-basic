@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
   <title>Mendeleev's Periodic Table</title>
 </head>
 <body>
@@ -13,11 +14,26 @@
   </header>
   <main>
     <div class="table-container">
-      <div class="element-grid">
-        <div class="element-block">
-          <p class="element-number">1</p>
-          <p class="element-symbol">H</p>
-        </div>
+      <div id="element-grid" class="grid"></div>
+    </div>
+
+    <div id="element-modal" class="modal hidden">
+      <div class="element-modal-content">
+        <span id="close-modal" class="close-button">&times;</span>
+        <h2 id="element-name"></h2>
+        <p><strong>Symbol:</strong> <span id="element-symbol"></span></p>
+        <p><strong>Atomic Number:</strong> <span id="element-number"></span></p>
+        <p><strong>Atomic Mass:</strong> <span id="element-mass"></span></p>
+        <p><strong>Series/Type:</strong> <span id="element-series"></span></p>
+        <p><strong>Period:</strong> <span id="element-period"></span></p>
+        <p><strong>Block:</strong> <span id="element-block"></span></p>
+        <p><strong>Electron Configuration:</strong> <span id="element-electron-layout"></span></p>
+        <p><strong>Electrons per Shell:</strong> <span id="element-shell"></span></p>
+        <p><strong>Melting Point (K):</strong> <span id="element-melting-point"></span></p>
+        <p><strong>Boiling Point (K):</strong> <span id="element-boiling-point"></span></p>
+        <p><strong>Date of Discovery:</strong> <span id=""></span></p>
+        
+        <a id="element-link" href="#" target="_blank">Read more on Wikipedia</a>
       </div>
     </div>
   </main>
