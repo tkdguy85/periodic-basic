@@ -79,7 +79,7 @@ header {
   width: 500px;
   max-width: 90%;
   box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-  animation: fadeIn 0.25s ease;
+  animation: fadeIn 1s ease;
 
   p {
     padding-top: 10px;

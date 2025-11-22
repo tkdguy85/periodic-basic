@@ -15,9 +15,14 @@ function renderTable(data) {
   const table = document.getElementById("element-grid")
   table.innerHTML = "" // clear before rendering
 
+  
   data.forEach(element => {
     const cell = document.createElement("div")
     cell.classList.add("element-cell")
+    
+    // Grid Layout to mimic current periodic table structure
+    cell.style.gridColumn = element.X
+    cell.style.gridRow = element.Y
 
     // Display symbol + atomic number
     cell.innerHTML = `
@@ -25,7 +30,7 @@ function renderTable(data) {
       <div class="symbol">${element["Symbol"]}</div>
     `
 
-    // Save the name of the element on the cell for modal lookup later
+    // Modal Dataset
     cell.dataset.elementName = element["Name"]
 
     cell.addEventListener("click", () => openModal(element))
@@ -47,7 +52,7 @@ function renderTable(data) {
     document.getElementById("element-shell").textContent = element["Electrons per Shell"]
     document.getElementById("element-melting-point").textContent = element["Melting Point (K)"]
     document.getElementById("element-boiling-point").textContent = element["Boiling Point (K)"]
-    document.getElementById("element-discovery-date").textContent = element["Date of Discovery"]
+    document.getElementById("element-discovery").textContent = element["Discovered By"]
 
     const wikiLink = document.getElementById("element-link")
     wikiLink.href = element["Wikipedia"]

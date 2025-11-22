@@ -11,8 +11,10 @@
     "Electrons per Shell": 1,
     "Melting Point (K)": 13.99,
     "Boiling Point (K)": 20.271,
-    "Date of Discovery": "Henry Cavendish",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Hydrogen"
+    "Discovered By": "Henry Cavendish",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Hydrogen",
+    "X": 1,
+    "Y": 1
   },
   {
     "Name": "Helium",
@@ -26,8 +28,10 @@
     "Electrons per Shell": 2,
     "Melting Point (K)": 0.95,
     "Boiling Point (K)": 4.222,
-    "Date of Discovery": "Pierre Janssen",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Helium"
+    "Discovered By": "Pierre Janssen",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Helium",
+    "X": 18,
+    "Y": 1
   },
   {
     "Name": "Lithium",
@@ -41,8 +45,10 @@
     "Electrons per Shell": "2,1",
     "Melting Point (K)": 453.65,
     "Boiling Point (K)": 1603,
-    "Date of Discovery": "Johan August Arfwedson",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Lithium"
+    "Discovered By": "Johan August Arfwedson",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lithium",
+    "X": 1,
+    "Y": 2
   },
   {
     "Name": "Beryllium",
@@ -56,8 +62,10 @@
     "Electrons per Shell": "2,2",
     "Melting Point (K)": 1560,
     "Boiling Point (K)": 2742,
-    "Date of Discovery": "Louis Nicolas Vauquelin",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Beryllium"
+    "Discovered By": "Louis Nicolas Vauquelin",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Beryllium",
+    "X": 2,
+    "Y": 2
   },
   {
     "Name": "Boron",
@@ -71,8 +79,10 @@
     "Electrons per Shell": "2,3",
     "Melting Point (K)": 2349,
     "Boiling Point (K)": 4200,
-    "Date of Discovery": "Joseph Louis Gay-Lussac",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Boron"
+    "Discovered By": "Joseph Louis Gay-Lussac",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Boron",
+    "X": 13,
+    "Y": 2
   },
   {
     "Name": "Carbon",
@@ -86,8 +96,10 @@
     "Electrons per Shell": "2,4",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Ancient Egypt",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Carbon"
+    "Discovered By": "Ancient Egypt",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Carbon",
+    "X": 14,
+    "Y": 2
   },
   {
     "Name": "Nitrogen",
@@ -101,8 +113,10 @@
     "Electrons per Shell": "2,5",
     "Melting Point (K)": 63.15,
     "Boiling Point (K)": 77.355,
-    "Date of Discovery": "Daniel Rutherford",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Nitrogen"
+    "Discovered By": "Daniel Rutherford",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Nitrogen",
+    "X": 15,
+    "Y": 2
   },
   {
     "Name": "Oxygen",
@@ -116,8 +130,10 @@
     "Electrons per Shell": "2,6",
     "Melting Point (K)": 54.36,
     "Boiling Point (K)": 90.188,
-    "Date of Discovery": "Carl Wilhelm Scheele",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Oxygen"
+    "Discovered By": "Carl Wilhelm Scheele",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Oxygen",
+    "X": 16,
+    "Y": 2
   },
   {
     "Name": "Fluorine",
@@ -131,8 +147,10 @@
     "Electrons per Shell": "2,7",
     "Melting Point (K)": 53.48,
     "Boiling Point (K)": 85.03,
-    "Date of Discovery": "André-Marie Ampère",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Fluorine"
+    "Discovered By": "André-Marie Ampère",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Fluorine",
+    "X": 17,
+    "Y": 2
   },
   {
     "Name": "Neon",
@@ -146,8 +164,10 @@
     "Electrons per Shell": "2,8",
     "Melting Point (K)": 24.56,
     "Boiling Point (K)": 27.104,
-    "Date of Discovery": "Morris Travers",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Neon"
+    "Discovered By": "Morris Travers",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Neon",
+    "X": 18,
+    "Y": 2
   },
   {
     "Name": "Sodium",
@@ -161,8 +181,10 @@
     "Electrons per Shell": "2,8,1",
     "Melting Point (K)": 370.944,
     "Boiling Point (K)": 1156.09,
-    "Date of Discovery": "Humphry Davy",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Sodium"
+    "Discovered By": "Humphry Davy",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Sodium",
+    "X": 1,
+    "Y": 3
   },
   {
     "Name": "Magnesium",
@@ -176,8 +198,10 @@
     "Electrons per Shell": "2,8,2",
     "Melting Point (K)": 923,
     "Boiling Point (K)": 1363,
-    "Date of Discovery": "Joseph Black",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Magnesium"
+    "Discovered By": "Joseph Black",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Magnesium",
+    "X": 2,
+    "Y": 3
   },
   {
     "Name": "Aluminium",
@@ -191,8 +215,10 @@
     "Electrons per Shell": "2,8,3",
     "Melting Point (K)": 933.47,
     "Boiling Point (K)": 2743,
-    "Date of Discovery": "",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Aluminium"
+    "Discovered By": "",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Aluminium",
+    "X": 13,
+    "Y": 3
   },
   {
     "Name": "Silicon",
@@ -206,8 +232,10 @@
     "Electrons per Shell": "2,8,4",
     "Melting Point (K)": 1687,
     "Boiling Point (K)": 3538,
-    "Date of Discovery": "Jöns Jacob Berzelius",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Silicon"
+    "Discovered By": "Jöns Jacob Berzelius",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Silicon",
+    "X": 14,
+    "Y": 3
   },
   {
     "Name": "Phosphorus",
@@ -221,8 +249,10 @@
     "Electrons per Shell": "2,8,5",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Hennig Brand",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Phosphorus"
+    "Discovered By": "Hennig Brand",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Phosphorus",
+    "X": 15,
+    "Y": 3
   },
   {
     "Name": "Sulfur",
@@ -236,8 +266,10 @@
     "Electrons per Shell": "2,8,6",
     "Melting Point (K)": 388.36,
     "Boiling Point (K)": 717.8,
-    "Date of Discovery": "Ancient china",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Sulfur"
+    "Discovered By": "Ancient china",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Sulfur",
+    "X": 16,
+    "Y": 3
   },
   {
     "Name": "Chlorine",
@@ -251,8 +283,10 @@
     "Electrons per Shell": "2,8,7",
     "Melting Point (K)": 171.6,
     "Boiling Point (K)": 239.11,
-    "Date of Discovery": "Carl Wilhelm Scheele",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Chlorine"
+    "Discovered By": "Carl Wilhelm Scheele",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Chlorine",
+    "X": 17,
+    "Y": 3
   },
   {
     "Name": "Argon",
@@ -266,8 +300,10 @@
     "Electrons per Shell": "2,8,8",
     "Melting Point (K)": 83.81,
     "Boiling Point (K)": 87.302,
-    "Date of Discovery": "Lord Rayleigh",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Argon"
+    "Discovered By": "Lord Rayleigh",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Argon",
+    "X": 18,
+    "Y": 3
   },
   {
     "Name": "Potassium",
@@ -281,8 +317,10 @@
     "Electrons per Shell": "2,8,8,1",
     "Melting Point (K)": 336.7,
     "Boiling Point (K)": 1032,
-    "Date of Discovery": "Humphry Davy",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Potassium"
+    "Discovered By": "Humphry Davy",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Potassium",
+    "X": 1,
+    "Y": 4
   },
   {
     "Name": "Calcium",
@@ -296,8 +334,10 @@
     "Electrons per Shell": "2,8,8,2",
     "Melting Point (K)": 1115,
     "Boiling Point (K)": 1757,
-    "Date of Discovery": "Humphry Davy",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Calcium"
+    "Discovered By": "Humphry Davy",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Calcium",
+    "X": 2,
+    "Y": 4
   },
   {
     "Name": "Scandium",
@@ -311,8 +351,10 @@
     "Electrons per Shell": "2,8,9,2",
     "Melting Point (K)": 1814,
     "Boiling Point (K)": 3109,
-    "Date of Discovery": "Lars Fredrik Nilson",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Scandium"
+    "Discovered By": "Lars Fredrik Nilson",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Scandium",
+    "X": 3,
+    "Y": 4
   },
   {
     "Name": "Titanium",
@@ -326,8 +368,10 @@
     "Electrons per Shell": "2,8,10,2",
     "Melting Point (K)": 1941,
     "Boiling Point (K)": 3560,
-    "Date of Discovery": "William Gregor",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Titanium"
+    "Discovered By": "William Gregor",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Titanium",
+    "X": 4,
+    "Y": 4
   },
   {
     "Name": "Vanadium",
@@ -341,8 +385,10 @@
     "Electrons per Shell": "2,8,11,2",
     "Melting Point (K)": 2183,
     "Boiling Point (K)": 3680,
-    "Date of Discovery": "Andrés Manuel del Río",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Vanadium"
+    "Discovered By": "Andrés Manuel del Río",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Vanadium",
+    "X": 5,
+    "Y": 4
   },
   {
     "Name": "Chromium",
@@ -356,8 +402,10 @@
     "Electrons per Shell": "2,8,13,1",
     "Melting Point (K)": 2180,
     "Boiling Point (K)": 2944,
-    "Date of Discovery": "Louis Nicolas Vauquelin",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Chromium"
+    "Discovered By": "Louis Nicolas Vauquelin",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Chromium",
+    "X": 6,
+    "Y": 4
   },
   {
     "Name": "Manganese",
@@ -371,8 +419,10 @@
     "Electrons per Shell": "2,8,13,2",
     "Melting Point (K)": 1519,
     "Boiling Point (K)": 2334,
-    "Date of Discovery": "Torbern Olof Bergman",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Manganese"
+    "Discovered By": "Torbern Olof Bergman",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Manganese",
+    "X": 7,
+    "Y": 4
   },
   {
     "Name": "Iron",
@@ -386,8 +436,10 @@
     "Electrons per Shell": "2,8,14,2",
     "Melting Point (K)": 1811,
     "Boiling Point (K)": 3134,
-    "Date of Discovery": "5000 BC",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Iron"
+    "Discovered By": "5000 BC",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Iron",
+    "X": 8,
+    "Y": 4
   },
   {
     "Name": "Cobalt",
@@ -401,8 +453,10 @@
     "Electrons per Shell": "2,8,15,2",
     "Melting Point (K)": 1768,
     "Boiling Point (K)": 3200,
-    "Date of Discovery": "Georg Brandt",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Cobalt"
+    "Discovered By": "Georg Brandt",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cobalt",
+    "X": 9,
+    "Y": 4
   },
   {
     "Name": "Nickel",
@@ -416,8 +470,10 @@
     "Electrons per Shell": "2,8,16,2",
     "Melting Point (K)": 1728,
     "Boiling Point (K)": 3003,
-    "Date of Discovery": "Axel Fredrik Cronstedt",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Nickel"
+    "Discovered By": "Axel Fredrik Cronstedt",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Nickel",
+    "X": 10,
+    "Y": 4
   },
   {
     "Name": "Copper",
@@ -431,8 +487,10 @@
     "Electrons per Shell": "2,8,18,1",
     "Melting Point (K)": 1357.77,
     "Boiling Point (K)": 2835,
-    "Date of Discovery": "Middle East",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Copper"
+    "Discovered By": "Middle East",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Copper",
+    "X": 11,
+    "Y": 4
   },
   {
     "Name": "Zinc",
@@ -446,8 +504,10 @@
     "Electrons per Shell": "2,8,18,2",
     "Melting Point (K)": 692.68,
     "Boiling Point (K)": 1180,
-    "Date of Discovery": "India",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Zinc"
+    "Discovered By": "India",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Zinc",
+    "X": 12,
+    "Y": 4
   },
   {
     "Name": "Gallium",
@@ -461,8 +521,10 @@
     "Electrons per Shell": "2,8,18,3",
     "Melting Point (K)": 302.9146,
     "Boiling Point (K)": 2673,
-    "Date of Discovery": "Lecoq de Boisbaudran",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Gallium"
+    "Discovered By": "Lecoq de Boisbaudran",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Gallium",
+    "X": 13,
+    "Y": 4
   },
   {
     "Name": "Germanium",
@@ -476,8 +538,10 @@
     "Electrons per Shell": "2,8,18,4",
     "Melting Point (K)": 1211.4,
     "Boiling Point (K)": 3106,
-    "Date of Discovery": "Clemens Winkler",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Germanium"
+    "Discovered By": "Clemens Winkler",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Germanium",
+    "X": 14,
+    "Y": 4
   },
   {
     "Name": "Arsenic",
@@ -491,8 +555,10 @@
     "Electrons per Shell": "2,8,18,5",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Bronze Age",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Arsenic"
+    "Discovered By": "Bronze Age",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Arsenic",
+    "X": 15,
+    "Y": 4
   },
   {
     "Name": "Selenium",
@@ -506,8 +572,10 @@
     "Electrons per Shell": "2,8,18,6",
     "Melting Point (K)": 494,
     "Boiling Point (K)": 958,
-    "Date of Discovery": "Jöns Jakob Berzelius",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Selenium"
+    "Discovered By": "Jöns Jakob Berzelius",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Selenium",
+    "X": 16,
+    "Y": 4
   },
   {
     "Name": "Bromine",
@@ -521,8 +589,10 @@
     "Electrons per Shell": "2,8,18,7",
     "Melting Point (K)": 265.8,
     "Boiling Point (K)": 332,
-    "Date of Discovery": "Antoine Jérôme Balard",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Bromine"
+    "Discovered By": "Antoine Jérôme Balard",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Bromine",
+    "X": 17,
+    "Y": 4
   },
   {
     "Name": "Krypton",
@@ -536,8 +606,10 @@
     "Electrons per Shell": "2,8,18,8",
     "Melting Point (K)": 115.78,
     "Boiling Point (K)": 119.93,
-    "Date of Discovery": "William Ramsay",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Krypton"
+    "Discovered By": "William Ramsay",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Krypton",
+    "X": 18,
+    "Y": 4
   },
   {
     "Name": "Rubidium",
@@ -551,8 +623,10 @@
     "Electrons per Shell": "2,8,18,8,1",
     "Melting Point (K)": 312.45,
     "Boiling Point (K)": 961,
-    "Date of Discovery": "Robert Bunsen",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Rubidium"
+    "Discovered By": "Robert Bunsen",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Rubidium",
+    "X": 1,
+    "Y": 5
   },
   {
     "Name": "Strontium",
@@ -566,8 +640,10 @@
     "Electrons per Shell": "2,8,18,8,2",
     "Melting Point (K)": 1050,
     "Boiling Point (K)": 1650,
-    "Date of Discovery": "William Cruickshank (chemist)",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Strontium"
+    "Discovered By": "William Cruickshank (chemist)",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Strontium",
+    "X": 2,
+    "Y": 5
   },
   {
     "Name": "Yttrium",
@@ -581,8 +657,10 @@
     "Electrons per Shell": "2,8,18,9,2",
     "Melting Point (K)": 1799,
     "Boiling Point (K)": 3203,
-    "Date of Discovery": "Johan Gadolin",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Yttrium"
+    "Discovered By": "Johan Gadolin",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Yttrium",
+    "X": 3,
+    "Y": 5
   },
   {
     "Name": "Zirconium",
@@ -596,8 +674,10 @@
     "Electrons per Shell": "2,8,18,10,2",
     "Melting Point (K)": 2128,
     "Boiling Point (K)": 4650,
-    "Date of Discovery": "Martin Heinrich Klaproth",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Zirconium"
+    "Discovered By": "Martin Heinrich Klaproth",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Zirconium",
+    "X": 4,
+    "Y": 5
   },
   {
     "Name": "Niobium",
@@ -611,8 +691,10 @@
     "Electrons per Shell": "2,8,18,12,1",
     "Melting Point (K)": 2750,
     "Boiling Point (K)": 5017,
-    "Date of Discovery": "Charles Hatchett",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Niobium"
+    "Discovered By": "Charles Hatchett",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Niobium",
+    "X": 5,
+    "Y": 5
   },
   {
     "Name": "Molybdenum",
@@ -626,8 +708,10 @@
     "Electrons per Shell": "2,8,18,13,1",
     "Melting Point (K)": 2896,
     "Boiling Point (K)": 4912,
-    "Date of Discovery": "Carl Wilhelm Scheele",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Molybdenum"
+    "Discovered By": "Carl Wilhelm Scheele",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Molybdenum",
+    "X": 6,
+    "Y": 5
   },
   {
     "Name": "Technetium",
@@ -641,8 +725,10 @@
     "Electrons per Shell": "2,8,18,13,2",
     "Melting Point (K)": 2430,
     "Boiling Point (K)": 4538,
-    "Date of Discovery": "Emilio Segrè",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Technetium"
+    "Discovered By": "Emilio Segrè",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Technetium",
+    "X": 7,
+    "Y": 5
   },
   {
     "Name": "Ruthenium",
@@ -656,8 +742,10 @@
     "Electrons per Shell": "2,8,18,15,1",
     "Melting Point (K)": 2607,
     "Boiling Point (K)": 4423,
-    "Date of Discovery": "Karl Ernst Claus",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Ruthenium"
+    "Discovered By": "Karl Ernst Claus",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ruthenium",
+    "X": 8,
+    "Y": 5
   },
   {
     "Name": "Rhodium",
@@ -671,8 +759,10 @@
     "Electrons per Shell": "2,8,18,16,1",
     "Melting Point (K)": 2237,
     "Boiling Point (K)": 3968,
-    "Date of Discovery": "William Hyde Wollaston",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Rhodium"
+    "Discovered By": "William Hyde Wollaston",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Rhodium",
+    "X": 9,
+    "Y": 5
   },
   {
     "Name": "Palladium",
@@ -686,8 +776,10 @@
     "Electrons per Shell": "2,8,18,18",
     "Melting Point (K)": 1828.05,
     "Boiling Point (K)": 3236,
-    "Date of Discovery": "William Hyde Wollaston",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Palladium"
+    "Discovered By": "William Hyde Wollaston",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Palladium",
+    "X": 10,
+    "Y": 5
   },
   {
     "Name": "Silver",
@@ -701,8 +793,10 @@
     "Electrons per Shell": "2,8,18,18,1",
     "Melting Point (K)": 1234.93,
     "Boiling Point (K)": 2435,
-    "Date of Discovery": "unknown, before 5000 BC",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Silver"
+    "Discovered By": "unknown, before 5000 BC",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Silver",
+    "X": 11,
+    "Y": 5
   },
   {
     "Name": "Cadmium",
@@ -716,8 +810,10 @@
     "Electrons per Shell": "2,8,18,18,2",
     "Melting Point (K)": 594.22,
     "Boiling Point (K)": 1040,
-    "Date of Discovery": "Karl Samuel Leberecht Hermann",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Cadmium"
+    "Discovered By": "Karl Samuel Leberecht Hermann",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cadmium",
+    "X": 12,
+    "Y": 5
   },
   {
     "Name": "Indium",
@@ -731,8 +827,10 @@
     "Electrons per Shell": "2,8,18,18,3",
     "Melting Point (K)": 429.7485,
     "Boiling Point (K)": 2345,
-    "Date of Discovery": "Ferdinand Reich",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Indium"
+    "Discovered By": "Ferdinand Reich",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Indium",
+    "X": 13,
+    "Y": 5
   },
   {
     "Name": "Tin",
@@ -746,8 +844,10 @@
     "Electrons per Shell": "2,8,18,18,4",
     "Melting Point (K)": 505.08,
     "Boiling Point (K)": 2875,
-    "Date of Discovery": "unknown, before 3500 BC",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Tin"
+    "Discovered By": "unknown, before 3500 BC",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Tin",
+    "X": 14,
+    "Y": 5
   },
   {
     "Name": "Antimony",
@@ -761,8 +861,10 @@
     "Electrons per Shell": "2,8,18,18,5",
     "Melting Point (K)": 903.78,
     "Boiling Point (K)": 1908,
-    "Date of Discovery": "unknown, before 3000 BC",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Antimony"
+    "Discovered By": "unknown, before 3000 BC",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Antimony",
+    "X": 15,
+    "Y": 5
   },
   {
     "Name": "Tellurium",
@@ -776,8 +878,10 @@
     "Electrons per Shell": "2,8,18,18,6",
     "Melting Point (K)": 722.66,
     "Boiling Point (K)": 1261,
-    "Date of Discovery": "Franz-Joseph Müller von Reichenstein",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Tellurium"
+    "Discovered By": "Franz-Joseph Müller von Reichenstein",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Tellurium",
+    "X": 16,
+    "Y": 5
   },
   {
     "Name": "Iodine",
@@ -791,8 +895,10 @@
     "Electrons per Shell": "2,8,18,18,7",
     "Melting Point (K)": 386.85,
     "Boiling Point (K)": 457.4,
-    "Date of Discovery": "Bernard Courtois",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Iodine"
+    "Discovered By": "Bernard Courtois",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Iodine",
+    "X": 17,
+    "Y": 5
   },
   {
     "Name": "Xenon",
@@ -806,8 +912,10 @@
     "Electrons per Shell": "2,8,18,18,8",
     "Melting Point (K)": 161.4,
     "Boiling Point (K)": 165.051,
-    "Date of Discovery": "William Ramsay",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Xenon"
+    "Discovered By": "William Ramsay",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Xenon",
+    "X": 18,
+    "Y": 5
   },
   {
     "Name": "Cesium",
@@ -821,8 +929,10 @@
     "Electrons per Shell": "2,8,18,18,8,1",
     "Melting Point (K)": 301.7,
     "Boiling Point (K)": 944,
-    "Date of Discovery": "Robert Bunsen",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Cesium"
+    "Discovered By": "Robert Bunsen",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cesium",
+    "X": 1,
+    "Y": 6
   },
   {
     "Name": "Barium",
@@ -836,8 +946,10 @@
     "Electrons per Shell": "2,8,18,18,8,2",
     "Melting Point (K)": 1000,
     "Boiling Point (K)": 2118,
-    "Date of Discovery": "Carl Wilhelm Scheele",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Barium"
+    "Discovered By": "Carl Wilhelm Scheele",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Barium",
+    "X": 2,
+    "Y": 6
   },
   {
     "Name": "Lanthanum",
@@ -851,8 +963,10 @@
     "Electrons per Shell": "2,8,18,18,9,2",
     "Melting Point (K)": 1193,
     "Boiling Point (K)": 3737,
-    "Date of Discovery": "Carl Gustaf Mosander",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Lanthanum"
+    "Discovered By": "Carl Gustaf Mosander",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lanthanum",
+    "X": 3,
+    "Y": 6
   },
   {
     "Name": "Cerium",
@@ -866,8 +980,10 @@
     "Electrons per Shell": "2,8,18,19,9,2",
     "Melting Point (K)": 1068,
     "Boiling Point (K)": 3716,
-    "Date of Discovery": "Martin Heinrich Klaproth",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Cerium"
+    "Discovered By": "Martin Heinrich Klaproth",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cerium",
+    "X": 4,
+    "Y": 9
   },
   {
     "Name": "Praseodymium",
@@ -881,8 +997,10 @@
     "Electrons per Shell": "2,8,18,21,8,2",
     "Melting Point (K)": 1208,
     "Boiling Point (K)": 3403,
-    "Date of Discovery": "Carl Auer von Welsbach",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Praseodymium"
+    "Discovered By": "Carl Auer von Welsbach",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Praseodymium",
+    "X": 5,
+    "Y": 9
   },
   {
     "Name": "Neodymium",
@@ -896,8 +1014,10 @@
     "Electrons per Shell": "2,8,18,22,8,2",
     "Melting Point (K)": 1297,
     "Boiling Point (K)": 3347,
-    "Date of Discovery": "Carl Auer von Welsbach",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Neodymium"
+    "Discovered By": "Carl Auer von Welsbach",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Neodymium",
+    "X": 6,
+    "Y": 9
   },
   {
     "Name": "Promethium",
@@ -911,8 +1031,10 @@
     "Electrons per Shell": "2,8,18,23,8,2",
     "Melting Point (K)": 1315,
     "Boiling Point (K)": 3273,
-    "Date of Discovery": "Chien Shiung Wu",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Promethium"
+    "Discovered By": "Chien Shiung Wu",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Promethium",
+    "X": 7,
+    "Y": 9
   },
   {
     "Name": "Samarium",
@@ -926,8 +1048,10 @@
     "Electrons per Shell": "2,8,18,24,8,2",
     "Melting Point (K)": 1345,
     "Boiling Point (K)": 2173,
-    "Date of Discovery": "Lecoq de Boisbaudran",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Samarium"
+    "Discovered By": "Lecoq de Boisbaudran",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Samarium",
+    "X": 8,
+    "Y": 9
   },
   {
     "Name": "Europium",
@@ -941,8 +1065,10 @@
     "Electrons per Shell": "2,8,18,25,8,2",
     "Melting Point (K)": 1099,
     "Boiling Point (K)": 1802,
-    "Date of Discovery": "Eugène-Anatole Demarçay",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Europium"
+    "Discovered By": "Eugène-Anatole Demarçay",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Europium",
+    "X": 9,
+    "Y": 9
   },
   {
     "Name": "Gadolinium",
@@ -956,8 +1082,10 @@
     "Electrons per Shell": "2,8,18,25,9,2",
     "Melting Point (K)": 1585,
     "Boiling Point (K)": 3273,
-    "Date of Discovery": "Jean Charles Galissard de Marignac",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Gadolinium"
+    "Discovered By": "Jean Charles Galissard de Marignac",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Gadolinium",
+    "X": 10,
+    "Y": 9
   },
   {
     "Name": "Terbium",
@@ -971,8 +1099,10 @@
     "Electrons per Shell": "2,8,18,27,8,2",
     "Melting Point (K)": 1629,
     "Boiling Point (K)": 3396,
-    "Date of Discovery": "Carl Gustaf Mosander",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Terbium"
+    "Discovered By": "Carl Gustaf Mosander",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Terbium",
+    "X": 11,
+    "Y": 9
   },
   {
     "Name": "Dysprosium",
@@ -986,8 +1116,10 @@
     "Electrons per Shell": "2,8,18,28,8,2",
     "Melting Point (K)": 1680,
     "Boiling Point (K)": 2840,
-    "Date of Discovery": "Lecoq de Boisbaudran",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Dysprosium"
+    "Discovered By": "Lecoq de Boisbaudran",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Dysprosium",
+    "X": 12,
+    "Y": 9
   },
   {
     "Name": "Holmium",
@@ -1001,8 +1133,10 @@
     "Electrons per Shell": "2,8,18,29,8,2",
     "Melting Point (K)": 1734,
     "Boiling Point (K)": 2873,
-    "Date of Discovery": "Marc Delafontaine",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Holmium"
+    "Discovered By": "Marc Delafontaine",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Holmium",
+    "X": 13,
+    "Y": 9
   },
   {
     "Name": "Erbium",
@@ -1016,8 +1150,10 @@
     "Electrons per Shell": "2,8,18,30,8,2",
     "Melting Point (K)": 1802,
     "Boiling Point (K)": 3141,
-    "Date of Discovery": "Carl Gustaf Mosander",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Erbium"
+    "Discovered By": "Carl Gustaf Mosander",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Erbium",
+    "X": 14,
+    "Y": 9
   },
   {
     "Name": "Thulium",
@@ -1031,8 +1167,10 @@
     "Electrons per Shell": "2,8,18,31,8,2",
     "Melting Point (K)": 1818,
     "Boiling Point (K)": 2223,
-    "Date of Discovery": "Per Teodor Cleve",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Thulium"
+    "Discovered By": "Per Teodor Cleve",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Thulium",
+    "X": 15,
+    "Y": 9
   },
   {
     "Name": "Ytterbium",
@@ -1046,8 +1184,10 @@
     "Electrons per Shell": "2,8,18,32,8,2",
     "Melting Point (K)": 1097,
     "Boiling Point (K)": 1469,
-    "Date of Discovery": "Jean Charles Galissard de Marignac",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Ytterbium"
+    "Discovered By": "Jean Charles Galissard de Marignac",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ytterbium",
+    "X": 16,
+    "Y": 9
   },
   {
     "Name": "Lutetium",
@@ -1061,8 +1201,10 @@
     "Electrons per Shell": "2,8,18,32,9,2",
     "Melting Point (K)": 1925,
     "Boiling Point (K)": 3675,
-    "Date of Discovery": "Georges Urbain",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Lutetium"
+    "Discovered By": "Georges Urbain",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lutetium",
+    "X": 17,
+    "Y": 9
   },
   {
     "Name": "Hafnium",
@@ -1076,8 +1218,10 @@
     "Electrons per Shell": "2,8,18,32,10,2",
     "Melting Point (K)": 2506,
     "Boiling Point (K)": 4876,
-    "Date of Discovery": "Dirk Coster",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Hafnium"
+    "Discovered By": "Dirk Coster",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Hafnium",
+    "X": 4,
+    "Y": 6
   },
   {
     "Name": "Tantalum",
@@ -1091,8 +1235,10 @@
     "Electrons per Shell": "2,8,18,32,11,2",
     "Melting Point (K)": 3290,
     "Boiling Point (K)": 5731,
-    "Date of Discovery": "Anders Gustaf Ekeberg",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Tantalum"
+    "Discovered By": "Anders Gustaf Ekeberg",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Tantalum",
+    "X": 5,
+    "Y": 6
   },
   {
     "Name": "Tungsten",
@@ -1106,8 +1252,10 @@
     "Electrons per Shell": "2,8,18,32,12,2",
     "Melting Point (K)": 3695,
     "Boiling Point (K)": 6203,
-    "Date of Discovery": "Carl Wilhelm Scheele",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Tungsten"
+    "Discovered By": "Carl Wilhelm Scheele",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Tungsten",
+    "X": 6,
+    "Y": 6
   },
   {
     "Name": "Rhenium",
@@ -1121,8 +1269,10 @@
     "Electrons per Shell": "2,8,18,32,13,2",
     "Melting Point (K)": 3459,
     "Boiling Point (K)": 5869,
-    "Date of Discovery": "Masataka Ogawa",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Rhenium"
+    "Discovered By": "Masataka Ogawa",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Rhenium",
+    "X": 7,
+    "Y": 6
   },
   {
     "Name": "Osmium",
@@ -1136,8 +1286,10 @@
     "Electrons per Shell": "2,8,18,32,14,2",
     "Melting Point (K)": 3306,
     "Boiling Point (K)": 5285,
-    "Date of Discovery": "Smithson Tennant",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Osmium"
+    "Discovered By": "Smithson Tennant",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Osmium",
+    "X": 8,
+    "Y": 6
   },
   {
     "Name": "Iridium",
@@ -1151,8 +1303,10 @@
     "Electrons per Shell": "2,8,18,32,15,2",
     "Melting Point (K)": 2719,
     "Boiling Point (K)": 4403,
-    "Date of Discovery": "Smithson Tennant",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Iridium"
+    "Discovered By": "Smithson Tennant",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Iridium",
+    "X": 9,
+    "Y": 6
   },
   {
     "Name": "Platinum",
@@ -1166,8 +1320,10 @@
     "Electrons per Shell": "2,8,18,32,17,1",
     "Melting Point (K)": 2041.4,
     "Boiling Point (K)": 4098,
-    "Date of Discovery": "Antonio de Ulloa",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Platinum"
+    "Discovered By": "Antonio de Ulloa",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Platinum",
+    "X": 10,
+    "Y": 6
   },
   {
     "Name": "Gold",
@@ -1181,8 +1337,10 @@
     "Electrons per Shell": "2,8,18,32,18,1",
     "Melting Point (K)": 1337.33,
     "Boiling Point (K)": 3243,
-    "Date of Discovery": "Middle East",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Gold"
+    "Discovered By": "Middle East",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Gold",
+    "X": 11,
+    "Y": 6
   },
   {
     "Name": "Mercury",
@@ -1196,8 +1354,10 @@
     "Electrons per Shell": "2,8,18,32,18,2",
     "Melting Point (K)": 234.321,
     "Boiling Point (K)": 629.88,
-    "Date of Discovery": "unknown, before 2000 BCE",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Mercury"
+    "Discovered By": "unknown, before 2000 BCE",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Mercury",
+    "X": 12,
+    "Y": 6
   },
   {
     "Name": "Thallium",
@@ -1211,8 +1371,10 @@
     "Electrons per Shell": "2,8,18,32,18,3",
     "Melting Point (K)": 577,
     "Boiling Point (K)": 1746,
-    "Date of Discovery": "William Crookes",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Thallium"
+    "Discovered By": "William Crookes",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Thallium",
+    "X": 13,
+    "Y": 6
   },
   {
     "Name": "Lead",
@@ -1226,8 +1388,10 @@
     "Electrons per Shell": "2,8,18,32,18,4",
     "Melting Point (K)": 600.61,
     "Boiling Point (K)": 2022,
-    "Date of Discovery": "Middle East",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Lead"
+    "Discovered By": "Middle East",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lead",
+    "X": 14,
+    "Y": 6
   },
   {
     "Name": "Bismuth",
@@ -1241,8 +1405,10 @@
     "Electrons per Shell": "2,8,18,32,18,5",
     "Melting Point (K)": 544.7,
     "Boiling Point (K)": 1837,
-    "Date of Discovery": "Claude François Geoffroy",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Bismuth"
+    "Discovered By": "Claude François Geoffroy",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Bismuth",
+    "X": 15,
+    "Y": 6
   },
   {
     "Name": "Polonium",
@@ -1256,8 +1422,10 @@
     "Electrons per Shell": "2,8,18,32,18,6",
     "Melting Point (K)": 527,
     "Boiling Point (K)": 1235,
-    "Date of Discovery": "Pierre Curie",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Polonium"
+    "Discovered By": "Pierre Curie",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Polonium",
+    "X": 16,
+    "Y": 6
   },
   {
     "Name": "Astatine",
@@ -1271,8 +1439,10 @@
     "Electrons per Shell": "2,8,18,32,18,7",
     "Melting Point (K)": 575,
     "Boiling Point (K)": 610,
-    "Date of Discovery": "Dale R. Corson",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Astatine"
+    "Discovered By": "Dale R. Corson",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Astatine",
+    "X": 17,
+    "Y": 6
   },
   {
     "Name": "Radon",
@@ -1286,8 +1456,10 @@
     "Electrons per Shell": "2,8,18,32,18,8",
     "Melting Point (K)": 202,
     "Boiling Point (K)": 211.5,
-    "Date of Discovery": "Friedrich Ernst Dorn",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Radon"
+    "Discovered By": "Friedrich Ernst Dorn",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Radon",
+    "X": 18,
+    "Y": 6
   },
   {
     "Name": "Francium",
@@ -1301,8 +1473,10 @@
     "Electrons per Shell": "2,8,18,32,18,8,1",
     "Melting Point (K)": 300,
     "Boiling Point (K)": 950,
-    "Date of Discovery": "Marguerite Perey",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Francium"
+    "Discovered By": "Marguerite Perey",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Francium",
+    "X": 1,
+    "Y": 7
   },
   {
     "Name": "Radium",
@@ -1316,8 +1490,10 @@
     "Electrons per Shell": "2,8,18,32,18,8,2",
     "Melting Point (K)": 1233,
     "Boiling Point (K)": 2010,
-    "Date of Discovery": "Pierre Curie",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Radium"
+    "Discovered By": "Pierre Curie",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Radium",
+    "X": 2,
+    "Y": 7
   },
   {
     "Name": "Actinium",
@@ -1331,8 +1507,10 @@
     "Electrons per Shell": "2,8,18,32,18,9,2",
     "Melting Point (K)": 1500,
     "Boiling Point (K)": 3500,
-    "Date of Discovery": "Friedrich Oskar Giesel",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Actinium"
+    "Discovered By": "Friedrich Oskar Giesel",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Actinium",
+    "X": 3,
+    "Y": 7
   },
   {
     "Name": "Thorium",
@@ -1346,8 +1524,10 @@
     "Electrons per Shell": "2,8,18,32,18,10,2",
     "Melting Point (K)": 2023,
     "Boiling Point (K)": 5061,
-    "Date of Discovery": "Jöns Jakob Berzelius",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Thorium"
+    "Discovered By": "Jöns Jakob Berzelius",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Thorium",
+    "X": 4,
+    "Y": 10
   },
   {
     "Name": "Protactinium",
@@ -1361,8 +1541,10 @@
     "Electrons per Shell": "2,8,18,32,20,9,2",
     "Melting Point (K)": 1841,
     "Boiling Point (K)": 4300,
-    "Date of Discovery": "William Crookes",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Protactinium"
+    "Discovered By": "William Crookes",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Protactinium",
+    "X": 5,
+    "Y": 10
   },
   {
     "Name": "Uranium",
@@ -1376,8 +1558,10 @@
     "Electrons per Shell": "2,8,18,32,21,9,2",
     "Melting Point (K)": 1405.3,
     "Boiling Point (K)": 4404,
-    "Date of Discovery": "Martin Heinrich Klaproth",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Uranium"
+    "Discovered By": "Martin Heinrich Klaproth",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Uranium",
+    "X": 6,
+    "Y": 10
   },
   {
     "Name": "Neptunium",
@@ -1391,8 +1575,10 @@
     "Electrons per Shell": "2,8,18,32,22,9,2",
     "Melting Point (K)": 912,
     "Boiling Point (K)": 4447,
-    "Date of Discovery": "Edwin McMillan",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Neptunium"
+    "Discovered By": "Edwin McMillan",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Neptunium",
+    "X": 7,
+    "Y": 10
   },
   {
     "Name": "Plutonium",
@@ -1406,8 +1592,10 @@
     "Electrons per Shell": "2,8,18,32,24,8,2",
     "Melting Point (K)": 912.5,
     "Boiling Point (K)": 3505,
-    "Date of Discovery": "Glenn T. Seaborg",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Plutonium"
+    "Discovered By": "Glenn T. Seaborg",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Plutonium",
+    "X": 8,
+    "Y": 10
   },
   {
     "Name": "Americium",
@@ -1421,8 +1609,10 @@
     "Electrons per Shell": "2,8,18,32,25,8,2",
     "Melting Point (K)": 1449,
     "Boiling Point (K)": 2880,
-    "Date of Discovery": "Glenn T. Seaborg",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Americium"
+    "Discovered By": "Glenn T. Seaborg",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Americium",
+    "X": 9,
+    "Y": 10
   },
   {
     "Name": "Curium",
@@ -1436,8 +1626,10 @@
     "Electrons per Shell": "2,8,18,32,25,9,2",
     "Melting Point (K)": 1613,
     "Boiling Point (K)": 3383,
-    "Date of Discovery": "Glenn T. Seaborg",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Curium"
+    "Discovered By": "Glenn T. Seaborg",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Curium",
+    "X": 10,
+    "Y": 10
   },
   {
     "Name": "Berkelium",
@@ -1451,8 +1643,10 @@
     "Electrons per Shell": "2,8,18,32,27,8,2",
     "Melting Point (K)": 1259,
     "Boiling Point (K)": 2900,
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Berkelium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Berkelium",
+    "X": 11,
+    "Y": 10
   },
   {
     "Name": "Californium",
@@ -1466,8 +1660,10 @@
     "Electrons per Shell": "2,8,18,32,28,8,2",
     "Melting Point (K)": 1173,
     "Boiling Point (K)": 1743,
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Californium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Californium",
+    "X": 12,
+    "Y": 10
   },
   {
     "Name": "Einsteinium",
@@ -1481,8 +1677,10 @@
     "Electrons per Shell": "2,8,18,32,29,8,2",
     "Melting Point (K)": 1133,
     "Boiling Point (K)": 1269,
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Einsteinium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Einsteinium",
+    "X": 13,
+    "Y": 10
   },
   {
     "Name": "Fermium",
@@ -1496,8 +1694,10 @@
     "Electrons per Shell": "2,8,18,32,30,8,2",
     "Melting Point (K)": 1800,
     "Boiling Point (K)": "",
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Fermium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Fermium",
+    "X": 14,
+    "Y": 10
   },
   {
     "Name": "Mendelevium",
@@ -1511,8 +1711,10 @@
     "Electrons per Shell": "2,8,18,32,31,8,2",
     "Melting Point (K)": 1100,
     "Boiling Point (K)": "",
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Mendelevium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Mendelevium",
+    "X": 15,
+    "Y": 10
   },
   {
     "Name": "Nobelium",
@@ -1526,8 +1728,10 @@
     "Electrons per Shell": "2,8,18,32,32,8,2",
     "Melting Point (K)": 1100,
     "Boiling Point (K)": "",
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Nobelium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Nobelium",
+    "X": 16,
+    "Y": 10
   },
   {
     "Name": "Lawrencium",
@@ -1541,8 +1745,10 @@
     "Electrons per Shell": "2,8,18,32,32,8,3",
     "Melting Point (K)": 1900,
     "Boiling Point (K)": "",
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Lawrencium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Lawrencium",
+    "X": 17,
+    "Y": 10
   },
   {
     "Name": "Rutherfordium",
@@ -1556,8 +1762,10 @@
     "Electrons per Shell": "2,8,18,32,32,10,2",
     "Melting Point (K)": 2400,
     "Boiling Point (K)": 5800,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Rutherfordium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Rutherfordium",
+    "X": 4,
+    "Y": 7
   },
   {
     "Name": "Dubnium",
@@ -1571,8 +1779,10 @@
     "Electrons per Shell": "2,8,18,32,32,11,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Dubnium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Dubnium",
+    "X": 5,
+    "Y": 7
   },
   {
     "Name": "Seaborgium",
@@ -1586,8 +1796,10 @@
     "Electrons per Shell": "2,8,18,32,32,12,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Lawrence Berkeley National Laboratory",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Seaborgium"
+    "Discovered By": "Lawrence Berkeley National Laboratory",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Seaborgium",
+    "X": 6,
+    "Y": 7
   },
   {
     "Name": "Bohrium",
@@ -1601,8 +1813,10 @@
     "Electrons per Shell": "2,8,18,32,32,13,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Bohrium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Bohrium",
+    "X": 7,
+    "Y": 7
   },
   {
     "Name": "Hassium",
@@ -1616,8 +1830,10 @@
     "Electrons per Shell": "2,8,18,32,32,14,2",
     "Melting Point (K)": 126,
     "Boiling Point (K)": "",
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Hassium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Hassium",
+    "X": 8,
+    "Y": 7
   },
   {
     "Name": "Meitnerium",
@@ -1631,8 +1847,10 @@
     "Electrons per Shell": "2,8,18,32,32,15,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Meitnerium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Meitnerium",
+    "X": 9,
+    "Y": 7
   },
   {
     "Name": "Darmstadtium",
@@ -1646,8 +1864,10 @@
     "Electrons per Shell": "2,8,18,32,32,16,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Darmstadtium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Darmstadtium",
+    "X": 10,
+    "Y": 7
   },
   {
     "Name": "Roentgenium",
@@ -1661,8 +1881,10 @@
     "Electrons per Shell": "2,8,18,32,32,17,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": "",
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Roentgenium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Roentgenium",
+    "X": 11,
+    "Y": 7
   },
   {
     "Name": "Copernicium",
@@ -1676,8 +1898,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,2",
     "Melting Point (K)": "",
     "Boiling Point (K)": 3570,
-    "Date of Discovery": "Gesellschaft für Schwerionenforschung",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Copernicium"
+    "Discovered By": "Gesellschaft für Schwerionenforschung",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Copernicium",
+    "X": 12,
+    "Y": 7
   },
   {
     "Name": "Nihonium",
@@ -1691,8 +1915,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,3",
     "Melting Point (K)": 700,
     "Boiling Point (K)": 1430,
-    "Date of Discovery": "RIKEN",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Nihonium"
+    "Discovered By": "RIKEN",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Nihonium",
+    "X": 13,
+    "Y": 7
   },
   {
     "Name": "Flerovium",
@@ -1706,8 +1932,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,4",
     "Melting Point (K)": 340,
     "Boiling Point (K)": 420,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Flerovium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Flerovium",
+    "X": 14,
+    "Y": 7
   },
   {
     "Name": "Moscovium",
@@ -1721,8 +1949,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,5",
     "Melting Point (K)": 670,
     "Boiling Point (K)": 1400,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Moscovium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Moscovium",
+    "X": 15,
+    "Y": 7
   },
   {
     "Name": "Livermorium",
@@ -1736,8 +1966,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,6",
     "Melting Point (K)": 709,
     "Boiling Point (K)": 1085,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Livermorium"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Livermorium",
+    "X": 16,
+    "Y": 7
   },
   {
     "Name": "Tennessine",
@@ -1751,8 +1983,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,7",
     "Melting Point (K)": 723,
     "Boiling Point (K)": 883,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Tennessine"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Tennessine",
+    "X": 17,
+    "Y": 7
   },
   {
     "Name": "Oganesson",
@@ -1766,8 +2000,10 @@
     "Electrons per Shell": "2,8,18,32,32,18,8",
     "Melting Point (K)": "",
     "Boiling Point (K)": 350,
-    "Date of Discovery": "Joint Institute for Nuclear Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Oganesson"
+    "Discovered By": "Joint Institute for Nuclear Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Oganesson",
+    "X": 18,
+    "Y": 7
   },
   {
     "Name": "Ununennium",
@@ -1781,7 +2017,9 @@
     "Electrons per Shell": "2,8,18,32,32,18,8,1",
     "Melting Point (K)": "",
     "Boiling Point (K)": 630,
-    "Date of Discovery": "GSI Helmholtz Centre for Heavy Ion Research",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Ununennium"
+    "Discovered By": "GSI Helmholtz Centre for Heavy Ion Research",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Ununennium",
+    "X": "",
+    "Y": ""
   }
 ]
