@@ -4,9 +4,10 @@ let elements = [] // Array holding all element data
 
 // Color mapping for element types
 const seriesColors = {
-  "diatomic nonmetal": "#4CAF50",
-  "polyatomic nonmetal": "#4CAF50",
-  "noble gas": "#9C27B0",
+  "diatomic nonmetal": "#028806",
+  "polyatomic nonmetal": "#028806",
+  "noble gas": "#2797b0",
+  "halogen": "#",
   "alkali metal": "#F44336",
   "alkaline earth metal": "#FF9800",
   "metalloid": "#009688",

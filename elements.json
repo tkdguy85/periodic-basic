@@ -138,7 +138,7 @@
   {
     "Name": "Fluorine",
     "Symbol": "F",
-    "Series / Type": "diatomic nonmetal",
+    "Series / Type": "halogen",
     "Atomic Number": 9,
     "Atomic Weight": 18.9984031636,
     "Period": 2,
@@ -274,7 +274,7 @@
   {
     "Name": "Chlorine",
     "Symbol": "Cl",
-    "Series / Type": "diatomic nonmetal",
+    "Series / Type": "halogen",
     "Atomic Number": 17,
     "Atomic Weight": 35.45,
     "Period": 3,
@@ -580,7 +580,7 @@
   {
     "Name": "Bromine",
     "Symbol": "Br",
-    "Series / Type": "diatomic nonmetal",
+    "Series / Type": "halogen",
     "Atomic Number": 35,
     "Atomic Weight": 79.904,
     "Period": 4,
@@ -886,7 +886,7 @@
   {
     "Name": "Iodine",
     "Symbol": "I",
-    "Series / Type": "diatomic nonmetal",
+    "Series / Type": "halogen",
     "Atomic Number": 53,
     "Atomic Weight": 126.904473,
     "Period": 5,
@@ -1430,7 +1430,7 @@
   {
     "Name": "Astatine",
     "Symbol": "At",
-    "Series / Type": "metalloid",
+    "Series / Type": "halogen",
     "Atomic Number": 85,
     "Atomic Weight": 210,
     "Period": 6,

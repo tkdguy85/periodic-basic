@@ -9,6 +9,10 @@ body {
   color: white
 }
 
+table {
+  color: #2797b0
+}
+
 header {
   display: flex;
   flex-direction: column;
