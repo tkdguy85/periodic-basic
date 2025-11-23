@@ -1,6 +1,22 @@
 // Pulls JSON data and generates the content for the periodic table
 
-let elements = [] // store globally for later modal use
+let elements = [] // Array holding all element data
+
+// Color mapping for element types
+const seriesColors = {
+  "diatomic nonmetal": "#4CAF50",
+  "polyatomic nonmetal": "#4CAF50",
+  "noble gas": "#9C27B0",
+  "alkali metal": "#F44336",
+  "alkaline earth metal": "#FF9800",
+  "metalloid": "#009688",
+  "halogen": "#3F51B5",
+  "metal": "#607D8B",
+  "transition metal": "#2196F3",
+  "lanthanide": "#8BC34A",
+  "actinide": "#CDDC39",
+  "post-transition metal": "#795548"
+}
 
 fetch("elements.json")
   .then(res => res.json())
@@ -28,6 +44,7 @@ function renderTable(data) {
     cell.innerHTML = `
       <div class="atomic-number">${element["Atomic Number"]}</div>
       <div class="symbol">${element["Symbol"]}</div>
+      <div class="display-name">${element["Name"]}</div>
     `
 
     // Modal Dataset
@@ -36,7 +53,15 @@ function renderTable(data) {
     cell.addEventListener("click", () => openModal(element))
 
     table.appendChild(cell)
+
+    cell.style.backgroundColor = getBackgroundColor(element)
   })
+
+  // Set background color based on series/type
+  function getBackgroundColor(element) {
+    const series = element["Series / Type"]
+    return seriesColors[series] || seriesColors["Unknown"]
+  }
 
   // Model functions
   function openModal(element) {

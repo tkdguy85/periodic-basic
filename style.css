@@ -47,10 +47,18 @@ header {
   border: 1px solid white;
   padding: 10px;
   text-align: left;
-
+  transition: all 0.4s ease-in-out;
+  background-color: #777;
+  
   &:hover {
-    background-color: blue;
+    filter: brightness(150%);
+    transform: scale(1.1);
     cursor: pointer;
+  }
+
+  .display-name {
+    font-size: 8px;
+    margin-top: 2px;
   }
 }
 
@@ -73,7 +81,7 @@ header {
 }
 
 .element-modal-content {
-  background-color: darkorange;
+  background-color: darkblue;
   padding: 20px;
   border-radius: 10px;
   width: 500px;
@@ -86,6 +94,16 @@ header {
 
     &:last-of-type {
       padding-bottom: 10px;
+    }
+  }
+
+  a {
+    color: lightblue;
+    font-style: italic;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
     }
   }
 }

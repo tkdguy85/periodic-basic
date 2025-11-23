@@ -966,7 +966,7 @@
     "Discovered By": "Carl Gustaf Mosander",
     "Wikipedia": "https://en.wikipedia.org/wiki/Lanthanum",
     "X": 3,
-    "Y": 6
+    "Y": 9
   },
   {
     "Name": "Cerium",
@@ -1203,8 +1203,8 @@
     "Boiling Point (K)": 3675,
     "Discovered By": "Georges Urbain",
     "Wikipedia": "https://en.wikipedia.org/wiki/Lutetium",
-    "X": 17,
-    "Y": 9
+    "X": 3,
+    "Y": 6
   },
   {
     "Name": "Hafnium",
@@ -1510,7 +1510,7 @@
     "Discovered By": "Friedrich Oskar Giesel",
     "Wikipedia": "https://en.wikipedia.org/wiki/Actinium",
     "X": 3,
-    "Y": 7
+    "Y": 10
   },
   {
     "Name": "Thorium",
@@ -1747,8 +1747,8 @@
     "Boiling Point (K)": "",
     "Discovered By": "Lawrence Berkeley National Laboratory",
     "Wikipedia": "https://en.wikipedia.org/wiki/Lawrencium",
-    "X": 17,
-    "Y": 10
+    "X": 3,
+    "Y": 7
   },
   {
     "Name": "Rutherfordium",
