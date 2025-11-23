@@ -4,19 +4,18 @@ let elements = [] // Array holding all element data
 
 // Color mapping for element types
 const seriesColors = {
-  "diatomic nonmetal": "#028806",
-  "polyatomic nonmetal": "#028806",
-  "noble gas": "#2797b0",
-  "halogen": "#",
-  "alkali metal": "#F44336",
-  "alkaline earth metal": "#FF9800",
-  "metalloid": "#009688",
-  "halogen": "#3F51B5",
-  "metal": "#607D8B",
-  "transition metal": "#2196F3",
-  "lanthanide": "#8BC34A",
-  "actinide": "#CDDC39",
-  "post-transition metal": "#795548"
+  "diatomic nonmetal": "#06d6a0",
+  "polyatomic nonmetal": "#06d6a0",
+  "noble gas": "#007ea7",
+  "halogen": "#f18805",
+  "alkali metal": "#de8f6e",
+  "alkaline earth metal": "#ff7d00",
+  "metalloid": "#78290f",
+  "metal": "#343330",
+  "transition metal": "#d98324",
+  "lanthanide": "#783f8e",
+  "actinide": "#4f1271",
+  "post-transition metal": "#7e5920"
 }
 
 fetch("elements.json")
