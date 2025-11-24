@@ -1,16 +1,22 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+:root {
+  --primary-nonmetal: rgb(76, 175, 80);
+  --primary-noble-gas: rgb(33, 150, 243);
+  --primary-alkali-metal: rgb(244, 67, 54);
+  --primary-alkaline-earth-metal: rgba(243, 149, 7, 0.826);
+  --primary-metalloid: rgb(121, 85, 72);
+  --primary-halogen: rgb(176, 169, 35);
+  --primary-metal: rgb(148, 142, 153);
+  --primary-transition-metal: rgb(204, 106, 113);
+  --primary-lanthanide: rgb(204, 61, 194);
+  --primary-actinide: rgb(148, 80, 204);
+  --primary-post-transition-metal: rgb(116, 112, 128);
+  --primary-other: rgb(144, 148, 40);
+  --primary-text: rgb(255, 255, 250);
 }
 
 body {
   background-color: darkblue;
-  color: white
-}
-
-table {
-  color: #2797b0
+  color: var(--primary-text);
 }
 
 header {
@@ -24,20 +30,24 @@ header {
   h1 {
     max-width: 300px;
     padding: 20px 10px;
-    border: 2px solid white;
+    border: 2px solid var(--primary-text);
   }
-
+  
   h2 {
     padding-top: 20px;
   }
 }
 
+table {
+  color: #2797b0
+}
+
 /* Element Table Layout */
 .table-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  margin: 20px auto;
+  margin: 20px;
 }
 
 .grid {
@@ -48,7 +58,7 @@ header {
 }
 
 .element-cell {
-  border: 1px solid white;
+  border: 1px solid var(--primary-text);
   padding: 10px;
   text-align: left;
   transition: all 0.4s ease-in-out;
