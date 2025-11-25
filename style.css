@@ -6,11 +6,11 @@
   --primary-metalloid: rgb(121, 85, 72);
   --primary-halogen: rgb(176, 169, 35);
   --primary-metal: rgb(148, 142, 153);
-  --primary-transition-metal: rgb(204, 106, 113);
+  --primary-transition-metal: rgb(191, 79, 87);
   --primary-lanthanide: rgb(204, 61, 194);
   --primary-actinide: rgb(148, 80, 204);
   --primary-post-transition-metal: rgb(116, 112, 128);
-  --primary-other: rgb(144, 148, 40);
+  --primary-other: rgba(144, 148, 40, 0.521);
   --primary-text: rgb(255, 255, 250);
 }
 
@@ -47,6 +47,7 @@ table {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  font-size: 24px;
   margin: 20px;
 }
 
@@ -62,18 +63,25 @@ table {
   padding: 10px;
   text-align: left;
   transition: all 0.4s ease-in-out;
-  background-color: #777;
+  background-color: var(--primary-other);
   
   &:hover {
-    filter: brightness(150%);
-    transform: scale(1.1);
+    filter: brightness(120%);
+    transform: scale(1.2);
     cursor: pointer;
   }
 
-  .display-name {
-    font-size: 8px;
-    margin-top: 2px;
+  .atomic-number {
+    font-weight: bold;
+    padding-bottom: 5px
   }
+}
+
+// Elemen
+
+.element-cell-sample {
+  border: 1px solid var(--primary-text);
+  padding: 10px;
 }
 
 /* Element Modal  */
@@ -96,7 +104,7 @@ table {
 
 .element-modal-content {
   background-color: darkblue;
-  padding: 20px;
+  padding: 50px;
   border-radius: 10px;
   width: 500px;
   max-width: 90%;
@@ -125,9 +133,15 @@ table {
 .close-button {
   position: relative;
   top: 0;
-  left: 95%;
+  left: 100%;
   font-size: 30px;
   cursor: pointer;
+  transition: all 0.4s ease-in-out;
+
+  &:hover {
+    font-size: 35px;
+    color: red;
+  }
 }
 
 @keyframes fadeIn {

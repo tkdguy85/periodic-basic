@@ -29,9 +29,7 @@ fetch("elements.json")
 // Builds out table grid
 function renderTable(data) {
   const table = document.getElementById("element-grid")
-  table.innerHTML = "" // clear before rendering
 
-  
   data.forEach(element => {
     const cell = document.createElement("div")
     cell.classList.add("element-cell")
@@ -44,7 +42,6 @@ function renderTable(data) {
     cell.innerHTML = `
       <div class="atomic-number">${element["Atomic Number"]}</div>
       <div class="symbol">${element["Symbol"]}</div>
-      <div class="display-name">${element["Name"]}</div>
     `
 
     // Modal Dataset
