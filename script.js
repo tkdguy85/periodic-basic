@@ -26,6 +26,12 @@ fetch("elements.json")
     closeModal()
   })
 
+// Set background color based on series/type
+function getBackgroundColor(element) {
+  const series = element["Series / Type"]
+  return seriesColors[series] || seriesColors["Unknown"]
+}
+
 // Builds out table grid
 function renderTable(data) {
   const table = document.getElementById("element-grid")
@@ -53,35 +59,29 @@ function renderTable(data) {
 
     cell.style.backgroundColor = getBackgroundColor(element)
   })
+}
 
-  // Set background color based on series/type
-  function getBackgroundColor(element) {
-    const series = element["Series / Type"]
-    return seriesColors[series] || seriesColors["Unknown"]
-  }
+// Model functions
+function openModal(element) {
+  // Modal content
+  document.getElementById("element-name").textContent = element["Name"]
+  document.getElementById("element-symbol").textContent = element["Symbol"]
+  document.getElementById("element-number").textContent = element["Atomic Number"]
+  document.getElementById("element-mass").textContent = element["Atomic Weight"]
+  document.getElementById("element-series").textContent = element["Series / Type"]
+  document.getElementById("element-period").textContent = element["Period"]
+  document.getElementById("element-block").textContent = element["Block"]
+  document.getElementById("element-electron-layout").textContent = element["Electron Configuration"]
+  document.getElementById("element-shell").textContent = element["Electrons per Shell"]
+  document.getElementById("element-melting-point").textContent = element["Melting Point (K)"]
+  document.getElementById("element-boiling-point").textContent = element["Boiling Point (K)"]
+  document.getElementById("element-discovery").textContent = element["Discovered By"]
 
-  // Model functions
-  function openModal(element) {
-    // Modal content
-    document.getElementById("element-name").textContent = element["Name"]
-    document.getElementById("element-symbol").textContent = element["Symbol"]
-    document.getElementById("element-number").textContent = element["Atomic Number"]
-    document.getElementById("element-mass").textContent = element["Atomic Weight"]
-    document.getElementById("element-series").textContent = element["Series / Type"]
-    document.getElementById("element-period").textContent = element["Period"]
-    document.getElementById("element-block").textContent = element["Block"]
-    document.getElementById("element-electron-layout").textContent = element["Electron Configuration"]
-    document.getElementById("element-shell").textContent = element["Electrons per Shell"]
-    document.getElementById("element-melting-point").textContent = element["Melting Point (K)"]
-    document.getElementById("element-boiling-point").textContent = element["Boiling Point (K)"]
-    document.getElementById("element-discovery").textContent = element["Discovered By"]
+  const wikiLink = document.getElementById("element-link")
+  wikiLink.href = element["Wikipedia"]
 
-    const wikiLink = document.getElementById("element-link")
-    wikiLink.href = element["Wikipedia"]
-
-    // Display modal
-    document.getElementById("element-modal").classList.remove("hidden")
-  }
+  // Display modal
+  document.getElementById("element-modal").classList.remove("hidden")
 }
 
 // Closes modal
