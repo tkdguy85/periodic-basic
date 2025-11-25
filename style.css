@@ -158,7 +158,7 @@ table {
   }
 }
 
-// Element Legend
+/* Element Legend */
 .table-legend-container {
   display: flex;
   flex-direction: row;
