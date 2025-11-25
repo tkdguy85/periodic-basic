@@ -31,6 +31,7 @@ header {
     max-width: 300px;
     padding: 20px 10px;
     border: 2px solid var(--primary-text);
+    box-shadow: 10px 10px 4px #000;
   }
   
   h2 {
@@ -43,7 +44,8 @@ table {
 }
 
 /* Element Table Layout */
-.table-container {
+.table-container,
+.table-legend-container {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -76,13 +78,6 @@ table {
     font-weight: bold;
     padding-bottom: 5px
   }
-}
-
-// Element Legend
-.table-legend-element {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
 }
 
 .element-cell-sample {
@@ -161,4 +156,39 @@ table {
     opacity: 1;
     transform: scale(1);
   }
+}
+
+// Element Legend
+.table-legend-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-color {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid var(--primary-text);
+  box-shadow: 5px 5px 4px #000;
+}
+
+.legend-label {
+  font-size: 16px;
 }

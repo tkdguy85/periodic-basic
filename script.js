@@ -61,6 +61,31 @@ function renderTable(data) {
   })
 }
 
+// Builds legend based on seriesColors
+function renderLegend(seriesColors) {
+  const legend = document.getElementById("legend");
+
+  Object.entries(seriesColors).forEach(([label, color]) => {
+    const item = document.createElement("div");
+    item.className = "legend-item";
+
+    const box = document.createElement("span");
+    box.className = "legend-color";
+    box.style.backgroundColor = color;
+
+    const text = document.createElement("span");
+    text.className = "legend-label";
+    text.textContent = label;
+
+    item.appendChild(box);
+    item.appendChild(text);
+
+    legend.appendChild(item);
+  });
+}
+
+renderLegend(seriesColors);
+
 // Model functions
 function openModal(element) {
   // Modal content
