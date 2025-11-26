@@ -10,7 +10,7 @@
   --primary-lanthanide: rgb(204, 61, 194);
   --primary-actinide: rgb(148, 80, 204);
   --primary-post-transition-metal: rgb(116, 112, 128);
-  --primary-other: rgba(144, 148, 40, 0.521);
+  --primary-other: rgba(40, 148, 139, 0.82);
   --primary-text: rgb(255, 255, 250);
 }
 
@@ -105,8 +105,8 @@ table {
   display: none;
 }
 
-.element-modal-content {
-  background-color: darkblue;
+#element-modal-content {
+  filter: brightness(120%);
   padding: 50px;
   border-radius: 10px;
   width: 500px;
@@ -140,10 +140,11 @@ table {
   font-size: 30px;
   cursor: pointer;
   transition: all 0.4s ease-in-out;
-
+  
   &:hover {
-    font-size: 35px;
-    color: red;
+    background: rgba(0, 0, 0, 0.783);
+    font-weight: bolder;
+    box-shadow: 1px 1px 5px 4px #000;
   }
 }
 
@@ -160,9 +161,8 @@ table {
 
 /* Element Legend */
 .table-legend-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  max-width: 65%;
+  justify-self: center;
 }
 
 #legend {

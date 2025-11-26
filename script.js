@@ -15,7 +15,8 @@ const seriesColors = {
   "transition metal": "var(--primary-transition-metal)",
   "lanthanide": "var(--primary-lanthanide)",
   "actinide": "var(--primary-actinide)",
-  "post-transition metal": "var(--primary-post-transition-metal)"
+  "post-transition metal": "var(--primary-post-transition-metal)",
+  "unknown, probably transition metal": "var(--primary-other)"
 }
 
 fetch("elements.json")
@@ -89,6 +90,7 @@ renderLegend(seriesColors);
 // Model functions
 function openModal(element) {
   // Modal content
+  document.getElementById("element-modal-content").style.backgroundColor = getBackgroundColor(element)
   document.getElementById("element-name").textContent = element["Name"]
   document.getElementById("element-symbol").textContent = element["Symbol"]
   document.getElementById("element-number").textContent = element["Atomic Number"]
