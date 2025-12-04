@@ -5,12 +5,11 @@
   --primary-alkaline-earth-metal: rgba(243, 149, 7, 0.826);
   --primary-metalloid: rgb(121, 85, 72);
   --primary-halogen: rgb(176, 169, 35);
-  --primary-metal: rgb(148, 142, 153);
   --primary-transition-metal: rgb(191, 79, 87);
   --primary-lanthanide: rgb(204, 61, 194);
   --primary-actinide: rgb(148, 80, 204);
-  --primary-post-transition-metal: rgb(116, 112, 128);
-  --primary-other: rgba(40, 148, 139, 0.82);
+  --primary-post-transition-metal: rgba(40, 148, 139, 0.82);
+  --primary-other: rgb(116, 112, 128);
   --primary-text: rgb(255, 255, 250);
 }
 

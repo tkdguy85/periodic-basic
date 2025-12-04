@@ -11,7 +11,6 @@ const seriesColors = {
   "alkali metal": "var(--primary-alkali-metal)",
   "alkaline earth metal": "var(--primary-alkaline-earth-metal)",
   "metalloid": "var(--primary-metalloid)",
-  "metal": "var(--primary-metal)",
   "transition metal": "var(--primary-transition-metal)",
   "lanthanide": "var(--primary-lanthanide)",
   "actinide": "var(--primary-actinide)",
