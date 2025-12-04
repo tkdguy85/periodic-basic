@@ -16,7 +16,7 @@ const seriesColors = {
   "lanthanide": "var(--primary-lanthanide)",
   "actinide": "var(--primary-actinide)",
   "post-transition metal": "var(--primary-post-transition-metal)",
-  "unknown, probably transition metal": "var(--primary-other)"
+  "unknown series": "var(--primary-other)"
 }
 
 fetch("elements.json")
@@ -30,7 +30,7 @@ fetch("elements.json")
 // Set background color based on series/type
 function getBackgroundColor(element) {
   const series = element["Series / Type"]
-  return seriesColors[series] || seriesColors["Unknown"]
+  return seriesColors[series] || "var(--primary-other)"
 }
 
 // Builds out table grid
@@ -50,7 +50,7 @@ function renderTable(data) {
       <div class="atomic-number">${element["Atomic Number"]}</div>
       <div class="symbol">${element["Symbol"]}</div>
     `
-
+    
     // Modal Dataset
     cell.dataset.elementName = element["Name"]
 
@@ -89,26 +89,36 @@ renderLegend(seriesColors);
 
 // Model functions
 function openModal(element) {
-  // Modal content
-  document.getElementById("element-modal-content").style.backgroundColor = getBackgroundColor(element)
-  document.getElementById("element-name").textContent = element["Name"]
-  document.getElementById("element-symbol").textContent = element["Symbol"]
-  document.getElementById("element-number").textContent = element["Atomic Number"]
-  document.getElementById("element-mass").textContent = element["Atomic Weight"]
-  document.getElementById("element-series").textContent = element["Series / Type"]
-  document.getElementById("element-period").textContent = element["Period"]
-  document.getElementById("element-block").textContent = element["Block"]
-  document.getElementById("element-electron-layout").textContent = element["Electron Configuration"]
-  document.getElementById("element-shell").textContent = element["Electrons per Shell"]
-  document.getElementById("element-melting-point").textContent = element["Melting Point (K)"]
-  document.getElementById("element-boiling-point").textContent = element["Boiling Point (K)"]
-  document.getElementById("element-discovery").textContent = element["Discovered By"]
+  // Modal content (refactored: mapping + guards)
+  const modalContent = document.getElementById("element-modal-content")
+  if (modalContent) modalContent.style.backgroundColor = getBackgroundColor(element)
+
+  const fields = {
+    "element-name": "Name",
+    "element-symbol": "Symbol",
+    "element-number": "Atomic Number",
+    "element-mass": "Atomic Weight",
+    "element-series": "Series / Type",
+    "element-period": "Period",
+    "element-block": "Block",
+    "element-electron-layout": "Electron Configuration",
+    "element-shell": "Electrons per Shell",
+    "element-melting-point": "Melting Point (K)",
+    "element-boiling-point": "Boiling Point (K)",
+    "element-discovery": "Discovered By"
+  }
+
+  Object.entries(fields).forEach(([id, key]) => {
+    const target = document.getElementById(id)
+    if (target) target.textContent = element[key] ?? ""
+  })
 
   const wikiLink = document.getElementById("element-link")
-  wikiLink.href = element["Wikipedia"]
+  if (wikiLink) wikiLink.href = element["Wikipedia"] || "#"
 
   // Display modal
-  document.getElementById("element-modal").classList.remove("hidden")
+  const modal = document.getElementById("element-modal")
+  if (modal) modal.classList.remove("hidden")
 }
 
 // Closes modal
