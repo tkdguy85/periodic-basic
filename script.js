@@ -1,5 +1,4 @@
 // Pulls JSON data and generates the content for the periodic table
-
 let elements = [] // Array holding all element data
 
 // Color mapping for element types
