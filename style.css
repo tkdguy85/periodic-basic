@@ -21,7 +21,6 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  /* padding: 20px 50px; */
   margin-top: 20px;
   margin-left: 50px;
   gap: 30px;
@@ -192,7 +191,9 @@ table {
 /* Element Legend */
 .table-legend-container {
   max-width: 65%;
+  margin-bottom: 50px;
   justify-self: center;
+  background: darkblue;
 
   h3 {
     margin: 5px;
@@ -235,5 +236,15 @@ table {
   .about-column-left,
   .about-column-right {
     width: 50%;
+  }
+
+  a {
+    color: lightblue;
+    font-style: italic;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
