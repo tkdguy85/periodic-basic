@@ -21,7 +21,9 @@ body {
 nav {
   display: flex;
   flex-direction: row;
-  padding: 20px 50px;
+  /* padding: 20px 50px; */
+  margin-top: 20px;
+  margin-left: 50px;
   gap: 30px;
 
   a {
@@ -70,7 +72,16 @@ table {
   justify-content: space-evenly;
   align-items: center;
   font-size: 24px;
-  margin: 20px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+.table-legend-container {
+  padding: 30px;
+  flex-direction: column;
+  margin-top: 50px;
+  border: 1px solid var(--primary-text);
+  box-shadow: 5px 5px 4px #000;
 }
 
 .grid {
@@ -182,15 +193,17 @@ table {
 .table-legend-container {
   max-width: 65%;
   justify-self: center;
+
+  h3 {
+    margin: 5px;
+  }
 }
 
 #legend {
   display: flex;
-  flex-wrap: wrap;
-  gap: 30px;
+  flex-direction: column;
+  gap: 10px;
   padding: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .legend-item {
